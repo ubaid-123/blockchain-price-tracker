@@ -3,6 +3,7 @@ It will track the price of Ethereum and Polygon and store it into the Postgresql
 
 ## .env
 Update these two:
+
 EMAIL_USER
 
 EMAIL_PASS
