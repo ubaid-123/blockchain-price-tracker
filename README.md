@@ -18,3 +18,6 @@ npm start
 npm run test-price-flow
 
 npm run test-alert-flow
+
+## Swagger
+http://localhost:3000/api-docs
