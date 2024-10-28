@@ -4,6 +4,7 @@ It will track the price of Ethereum and Polygon and store it into the Postgresql
 ## .env
 Update these two:
 EMAIL_USER
+
 EMAIL_PASS
 
 ## Installation
@@ -14,4 +15,5 @@ npm start
 
 ## Test
 npm run test-price-flow
+
 npm run test-alert-flow
